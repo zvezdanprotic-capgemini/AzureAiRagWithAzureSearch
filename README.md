@@ -188,3 +188,63 @@ The system includes multiple fallback mechanisms:
 - Multiple vector search configurations are attempted
 - Keyword search fallback if vector search fails
 - Comprehensive logging for debugging
+
+## RAG Process Flow Diagram
+
+```mermaid
+graph TB
+    subgraph "Ingestion Pipeline"
+        A[Document Source] --> B[process_files_and_generate_records]
+        B --> C[Chunk Text]
+        C --> D[get_content_hash_id]
+        D --> E{Chunks Exist?}
+        E -->|No| F[Generate Embeddings]
+        F --> G[Index in Azure Search]
+        E -->|Yes| H[Skip Processing]
+    end
+
+    subgraph "Retrieval & Generation Pipeline"
+        I[User Question] --> J[Embed Question]
+        J --> K[Vector Search]
+        K --> L[Retrieve Top-K Chunks]
+        L --> M[Build Prompt with Context]
+        M --> N[OpenAI Chat Completion]
+        N --> O[Format & Return Answer]
+    end
+
+    subgraph "Main Components"
+        P[chunk_text_for_rags.py] -.-> B
+        Q[embedder.py] -.-> F
+        Q -.-> J
+        R[indexer.py] -.-> G
+        S[retriever.py] -.-> K
+        T[rag_app.py] -.-> |Orchestrates| P
+        T -.-> |Orchestrates| Q
+        T -.-> |Orchestrates| R
+        T -.-> |Orchestrates| S
+    end
+
+    style A fill:#f9d5e5,stroke:#333,stroke-width:1px,color:#000
+    style I fill:#f9d5e5,stroke:#333,stroke-width:1px,color:#000
+    style O fill:#d5f9e5,stroke:#333,stroke-width:1px,color:#000
+    style P fill:#d5e5f9,stroke:#333,stroke-width:1px,color:#000
+    style Q fill:#ffe6cc,stroke:#333,stroke-width:1px,color:#000
+    style R fill:#ffcce6,stroke:#333,stroke-width:1px,color:#000
+    style S fill:#ccffe6,stroke:#333,stroke-width:1px,color:#000
+    style T fill:#d5e5f9,stroke:#333,stroke-width:1px,color:#000
+```
+
+This diagram illustrates the complete RAG (Retrieval-Augmented Generation) process implemented in this project:
+
+1. **Ingestion Pipeline**: Documents are processed, chunked, and embedded before being indexed in Azure Search
+   - Content-based hashing ensures document uniqueness
+   - Efficient processing with duplicate detection
+
+2. **Retrieval & Generation Pipeline**: User questions are embedded and used to retrieve relevant context
+   - Vector similarity search finds the most relevant chunks
+   - Retrieved context is incorporated into prompts for the LLM
+   - Responses are generated based on the specific context
+
+3. **Main Components**: The system is modular with clear separation of concerns
+   - Each Python file handles a specific part of the RAG pipeline
+   - rag_app.py orchestrates the entire process
