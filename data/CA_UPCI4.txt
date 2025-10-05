@@ -1,0 +1,265 @@
+Underwriting Principles and Controls Part I 
+ 
+Table of Contents 
+ 
+Chapter 1  UNDERWRITING BACKGROUND AND OBJECTIVE	1 
+Underwriter’s Goal	1 
+Underwriting Process	3 
+Historical Development of Underwriting	5 
+Traditional Underwriting Practices	5 
+Little Information Available	6 
+Rating Process Systematized	6 
+Underwriter Responsibilities	7 
+Potential for Conflict	8 
+Types of Underwriters	8 
+Line Underwriters	8 
+Providing Service to Producers and Policyholders	9 
+Staff Underwriters	9 
+Conducting Underwriting Audits	10 
+Evaluating Underwriting Experience	10 
+Formulating Underwriting Policy	11 
+Financial Capacity	11 
+Regulation	12 
+Personnel and Physical Resources	12 
+Reinsurance	12 
+Functions	12 
+Types of Reinsurance	13 
+Proportional and Non-Proportional Reinsurance	13 
+Proportional	14 
+Non-proportional	14 
+Risk Sharing	14 
+Retrocession	15 
+Broker vs. Direct Reinsurance	16 
+Specialty Features of Reinsurance Contracts	16 
+Chapter 2  DEVELOPING UNDERWRITING CRITERIA	17 
+Guideline Development	17 
+Underwriting Guideline Examples	17 
+21st Century Insurance Co. Commercial Auto Guidelines	17 
+Other Types of Underwriting Guides	24 
+Underwriting worksheet	24 
+Chapter 3  OVERVIEW OF LIFE/HEALTH UNDERWRITING	26 
+The Underwriting Decision	27 
+Establishing Risk Classes	28 
+Underwriting Guidelines	29 
+The Numerical Rating System	29 
+The Underwriting Manual	29 
+Rating Manuals	30 
+Limitations of Underwriting Manuals	35 
+Deviation from Underwriting Guidelines	36 
+Immediate Decision	36 
+Experimental Underwriting	36 
+Chapter 4  UNDERWRITING STEPS	39 
+Preliminary Processing	39 
+Information for Current Files	40 
+Case Assignment Systems	40 
+Underwriting the Case	41 
+Information Sources	41 
+Property Casualty Underwriting Development	42 
+Producers	43 
+Applications	43 
+Inspection Reports	44 
+Government Records	44 
+Financial Rating Services	44 
+Loss Data	44 
+Claim Files	45 
+Underwriting, Pricing and the Actuary	46 
+Actuary and Reserving	47 
+Summary of Actuarial Principles	52 
+Must Know Whereof They Speak	53 
+Chapter 5  PRICING INSURANCE PRODUCTS	53 
+Pricing Objectives	53 
+Adequate Rates	54 
+Ratemaking Responsibility	54 
+Ratemaking Process and Terms	55 
+Ratemaking Process	55 
+Ratemaking Illustration	55 
+Ratemaking Factors	56 
+Ratemaking Terms	57 
+Loss Reserves Estimation	57 
+Paid Losses	58 
+Reported But Not Paid Losses	59 
+Incurred But Not Reported (IBNR) Losses	59 
+Investment Income	61 
+Other Factors	61 
+Chapter 6  RATEMAKING METHODS	61 
+Loss Adjustment Expense and Ultimate Loss	62 
+Provision for Expense and Profit	62 
+Table 7-1	62 
+Combining the Concepts	63 
+LAE and Ultimate Loss Estimates	64 
+Addressing Reserves	65 
+Estimate of losses	66 
+Cumulative Loss Development Estimates	67 
+Ultimate Losses Estimate	68 
+Apply Trending	69 
+Adjust Levels	69 
+Determining Auto and Homeowners Rates	69 
+Double Standard	70 
+Using Historic Cost	71 
+Loss Development Factors	72 
+Rate Analysis	72 
+Ratemaking Components	73 
+Mechanics of Class Rating	73 
+Pure Premium Ratemaking Method	73 
+Loss Ratio Ratemaking Method	75 
+Other Types of Rating	75 
+Life Insurance Ratemaking	77 
+Adoption of 2001 Mortality Table	77 
+NSP as Example Base	78 
+Table 6-1	79 
+Ratemaking Varies	82 
+Chapter 7  LEGAL ISSUES AFFECTING UNDERWRITING	83 
+Title V of ADA	83 
+Title V – Insurance Underwriting	84 
+Court Decisions	84 
+Functions and Impact of Underwriting and Risk Classification	85 
+Underwriter Binds the Insurer- Waiver and Estoppel	85 
+Estoppel	85 
+Waiver	86 
+Used Interchangeably	86 
+Parol Evidence Rule	89 
+Underwriting Aspects Affecting Legal Position	90 
+Chapter 8  ECONOMICS OF UNDERWRITING RISK	91 
+Adverse Selection	91 
+Concept of Risk and Return	91 
+Portfolio Theory and Underwriting	92 
+Goal of Underwriting	93 
+Determining Underwriting Margin	94 
+Getting Together the Buyers and Sellers	94 
+Missing Puzzle Piece	95 
+Frictional Costs	96 
+Risk Information Required	96 
+What You Don’t Know	97 
+Benefit of Commissions	97 
+Graph 8-1	98 
+Enter the Intermediaries	99 
+The Agent or Producer is Market Maker	99 
+Going, Going	100 
+Accurate Information to Quantify Risk	101 
+Growth Rates and Underwriting Risks	102 
+Insurance: A Risk to the Economy?	102 
+The Economics of Insurance: Life's a Gamble	102 
+The Insurance Industry's Own Catastrophic Event	104 
+A Damper on the Economy?	105 
+
+ 
+
+ 
+ 
+ 
+Underwriting Principles and Controls Part I 
+ 
+Chapter 1 	UNDERWRITING BACKGROUND AND OBJECTIVE 
+ 
+Basically, underwriting consists of two components; risk assessment and pricing. Successful underwriting requires a system of risk selection to obtain a group in which loss results will be reasonably predictable by means of the law of averages. To accomplish this goal there must be a balance between obtaining volume and obtaining homogeneous risks. If an insurance company issuing individual life policies, for instance, adopted such strict standards that it would only accept individuals who were practically perfect physically, ideal from a moral standpoint, and in risk-free occupations, there would be only a very small group from which to choose. Such a group would be very homogeneous, with all the risk units--in this case the individual lives--subject to about the same chance of loss. But the mass or volume of risk units would be very small, and thus the predictability of loss might be adversely affected. Another element entering in to make selection of such a group impractical would be that selection procedures necessary to obtain this near-perfect set of individuals. The expense involved would more than offset the savings from the mortality rate of the group.  In underwriting, selection expense is a factor to be considered.  There has to be a balance between the strictness of selection standards and the necessity of having a large volume of risk units to be insured.  
+ 
+For example, group life insurance selection standards are set up to achieve this balance. Usually group insurance companies adopt selection standards broad enough to permit acceptance of the large majority of insurable risks at standard premium rates. Certain groups employed in hazardous occupations will have mortality rates consistently higher than standard risks. They have to be classified as substandard risks and a policy covering them would have a higher premium rate.  A risk may even be rejected entirely because the mortality rate is too great or too unpredictable for insurance to be practicable. The chance of loss is never exactly the same for all risks or groups, even within the classification of insurable risks into the standard class and several substandard classes.  In each class there are good risks and poor risks relative to the rest of the class. 
+ 
+Underwriter’s Goal 
+It is the goal of the insurance underwriter to establish rules which will result in securing an average proportion of good risks.  If the underwriter can accomplish this goal, the company's average mortality cost will be lower and the company may be able to offer insurance at a lower net cost.  The practice of experience rating helps in achieving this goal. The rules adopted by various companies to secure the desired result will vary, based as they are on the individual company's experience, research, judgment, and, at the end, intuition.  But the aims they are trying to achieve are basically the same. For successful operation in the insurance field, the rules established by any company need to achieve the proper balance between mass and homogeneity of risks to achieve predictability of future results.  The rules should establish standards permitting acceptance of the large majority of risks at standard premium rates.  They need to secure the largest possible proportion of the average risks within each classification. In order to achieve this proportion, a company may establish a policy of accepting borderline cases which would not be a gain from the underwriting standpoint but would provide volume to spread out overhead expense. 
+ 
+The objective of underwriting is to produce a pool of insureds, by categories, whose actual loss experience will closely approximate the expected loss experience of a given hypothetical pool of insureds. That is, if an underwriter is told that a pool of exposures with specified characteristics (e.g., a pool of brick buildings located no more than 5 miles from a fire station) will produce a specified loss rate of, say, 1% of the value of the insured property, then the underwriter should try to place in this pool all the exposures whose characteristics match the specifications. If the underwriter does the job well, the loss ratio of the insureds accepted will closely approximate the expected 1% figure. Putting applicants for insurance in the classification or pool that most closely reflects the real costs of their losses is the essence of good underwriting. Contrary to some opinions, it is not the function of the underwriter to reject so much business that the company experiences no losses. If the underwriter rejects all but the exceptionally safe exposures, he or she has probably turned away much desirable business. The insurance company expects a certain number of losses to occur, and it is just as much an underwriting error to reject profitable business as it is to accept loss-prone business.  
+ 
+Financial Function 
+The function of the underwriter is to accept applicants so that the losses paid by the insurance company closely match the losses that the company expects to pay. The potential for conflict between the underwriter and the insurance agent must be considered. The underwriter's performance is judged primarily on the quality, rather than the quantity of successful applications produced, whereas the agent is compensated based on quantity of production. The conflict between the two parties is more apparent than real. The agent's responsibilities include an initial screening of applicants. If the agent knows a company will not accept a certain class of business, such applications should not be submitted. The underwriter knows that the greater amount of business accepted, the better the law of large numbers will operate. Furthermore, the agent knows that, if the applications submitted consistently result in an above-average number of claims, the company may wish to terminate its relationship. Thus, while a potential for conflict appears because of the different objectives of the underwriter and the agent, in practice they are both working toward the same goal-producing a large group of properly classified insureds. 
+ 
+Purpose of Underwriting  
+The purpose of underwriting is to develop and maintain a profitable book of business for the insurer. A book of business is all of the policies that an insurer has in force or some subgroup of those policies. For example, a book of business can include all of an insurer's commercial policies or all of its commercial general liability policies. "Book of business" can also refer to business produced in a specific geographic area or by a particular branch office or agency.  
+ 
+For underwriting to achieve its purpose, insurers must minimize the effects of adverse selection. Adverse selection occurs because the individuals and businesses with the greatest probability of loss are those most likely to purchase insurance. For example, persons and businesses owning property in a flood plain are generally much more interested in buying flood insurance than applicants who do not own property in a flood plain. Insurers, on the other hand, are not interested in selling insurance to applicants who expect frequent, severe losses. Underwriters minimize the effects of adverse selection by carefully selecting the applicants whose loss exposures they are willing to insure.  
+ 
+Underwriting Process 
+Underwriting has been defined as determining what loss exposures will be insured, for what amount of insurance, at what price, and under what conditions. To make an underwriting decision, there are six steps:  
+1.	Evaluating loss exposures- the gathering of information about an applicant’s loss exposures. There is a tradeoff between the need for information and the cost to obtain it.  
+2.	Determining underwriting alternatives-  
+3.	Selecting an underwriting alternative 
+4.	Determining the appropriate premium  
+5.	Implementing the underwriting decision  
+6.	Monitoring the loss exposures  
+ 
+Although experienced underwriters do not always follow each of these steps in strict sequence, the sequence of steps provides a sound framework for underwriters to make decisions. For example, as each piece of information is received, the underwriter considers how that information will affect the available alternatives. Likewise, if the underwriter receives information clearly indicating that the applicant is unacceptable, he or she immediately "implements the decision" to reject the account.  
+ 
+1.)	Evaluating Loss Exposures- In this step information is gathered about an applicant's loss exposures. Underwriters must understand the activities, operations, and character of every applicant. However, tradeoffs are necessary to control underwriting expenses and to handle a reasonable number of applications. Underwriters weigh the need for information against the cost to obtain it. For example, an underwriter is likely to thoroughly investigate a manufacturing facility whose raw material is petroleum products. Not quite so much information is needed for a retail facility in the local strip mall. 
+ 
+2.)	Determining underwriting alternatives- Each alternative is carefully evaluated. The underwriter must choose the optimal one under the applicable circumstances. The three underwriting alternatives are: 
+•	Accept the submission as is.  
+•	Reject the submission.  
+•	Make a counteroffer to accept the submission subject to certain modifications. Four major types of modifications, discussed next, are as follows:  
+a.)	Require loss control measures to reduce hazards- Some loss control measures are relatively inexpensive and simple to implement, while others, such as fire sprinklers, require considerable capital investment. 
+b.)	Change insurance rates, rating plans, or policy limits- A submission that is not acceptable at standard rates might be desirable if the underwriter can charge a different rate, use a different rating plan, or provide a different limit. A rate modification could either increase or decrease the premium. Smokers will not get the best life insurance rates while a preferred risk program might be presented to a desirable applicant who applies for coverage at standard rates. 
+c.)	Amend policy terms and conditions- A submission might become acceptable by modifying the policy to exclude certain causes of loss, add or increase a deductible, or make another coverage change.  
+d.)	Use facultative reinsurance- If the applicant is in a class of business that is not covered by the underwriter's reinsurance treaty, or if the amount of insurance needed exceeds net treaty capacity, the underwriter might be able to transfer a portion of the liability for the applicant's loss exposure to a facultative reinsurer. 
+ 
+3.)	Selecting an underwriting alternative- The underwriter must decide whether to accept the submission as offered, accept it with modifications, or reject it. Rejection is sometimes unavoidable; however, rejections produce neither premium nor commission, only expense. Therefore, underwriters try to make the submission acceptable because one of the insurer's goals is to produce profitable business. 
+ 
+4.)	Determining the appropriate premium- Underwriters must ensure that each loss exposure is properly classified so that it is properly rated. Insurance loss costs are typically based on an elaborate classification system in which similar loss exposures are combined into the same rating classification. Combining loss exposures into rating classifications enables the insurer to appropriately match potential loss costs with an applicant's particular loss exposures. Consequently, the insurer can develop an adequate premium to pay losses and operating expenses and to produce a profit. Accurate classification ensures a pooling of loss exposures whose expected loss frequency and loss severity are similar. Misclassification can produce adverse results, including insufficient premium to cover losses and expenses, inability to sell policies because prices are higher than competitors' prices, and charges that the insurer has violated regulations prohibiting unfair trade practices.  
+ 
+5.)	Implementing the underwriting decision- Implementing underwriting decisions generally involves three steps:  
+a.)	Contact the producer (and others involved) with the decision, good or bad. If the decision is to accept the submission with modifications, the reasons must be clearly communicated to the producer or applicant, and the applicant must agree to accept or implement the modifications. If the application is rejected, a clear and logical reason why the particular applicant does not meet the insurer's underwriting requirements must be communicated.  
+b.)	Put coverage into effect. Issue a binder, send a policy worksheet to the policy unit, or prepare certificates of insurance.  
+c.)	Record the policy and the applicant information for accounting, statistical, and monitoring purposes. Data entry personnel enter essential information into the insurer's information system. It must be coded so that the insurer and the industry can evaluate and accumulate information on all accounts for ratemaking, statutory filing, and financial accounting.  
+ 
+6.)	Monitoring the loss exposures- After an underwriting decision has been made on a new business submission or a renewal; the underwriter must monitor activity on the individual policies to ensure that satisfactory results are achieved. 
+ 
+Historical Development of Underwriting 
+The word "underwriter" stems from the manner in which the first contracts for insurance were written. Most experts agree that the first insurance contracts were property insurance covering sailing vessels and their contents. The typical maritime insurance contract insured against several perils-such as fire and storms-which could cause the ship's owner to lose the ship or its contents. These contracts also stipulated the amount that the owner would receive from the insurer as compensation in the event of such a loss. The first insurers were individuals who agreed to assume someone else's risk for a mutually agreed upon price. These individuals endorsed the contract under the signature of the party purchasing the insurance coverage and thus became known as "underwriters:' Life insurance underwriting also originated in connection with maritime insurance, when insurance coverage was purchased to cover the lives of merchants and captains traveling on insured ships.  
+ 
+Traditional Underwriting Practices 
+During most of insurance history, underwriting was an art which was passed down from one underwriter to another. In the process, a body of traditional practices developed based on experiences with claims. Losses of a certain type, even though infrequent, indicated patterns which needed careful attention. For example, over the years, the underwriter might notice accidents in automobiles which were caused by drivers with physical impairments. Perhaps they were driving cars without proper equipment to compensate for their impairments, or perhaps they were not trained to use the equipment which was installed. 
+ 
+From experiences such as these, the underwriter gradually developed guides to types of risks which presented more problems than normal. When a class of risks was identified through long experience as being somewhat of a problem, it was natural for the underwriter to place the class on an unacceptable list. Underwriters recognized that there probably were acceptable risks within each class, but they felt that the efforts required to identify those risks were not justified by the few additional policies which could be written. Investigation, which would be needed to find the acceptable risks, was expensive and there were pressures on the expense ratio. More importantly, underwriters were unsure how to identify the few desirable risks. It seemed more logical to refuse to write all members of the class than to spend money trying to find the few who might qualify. Exceptions were made, but they were relatively rare, and usually based on strong recommendations of the producer.  
+This is the way that class underwriting developed. Based largely on the accumulated experience of underwriters, class underwriting was supported by the few statistics which became available, such as those which showed that past accidents and citations were predictors of future accident involvement. Underwriters then prepared lists for the guidance of producers and new underwriters, showing the classes which were not desirable. Various names were used for these guide lists, such as prohibited list, nonbinder list, restrictive list and ineligible list. (The latter was used before the development of the current distinction between "ineligible," meaning a risk which cannot be written under the company's filings, and "unacceptable," meaning a risk which the underwriter cannot find a way to write even though it is eligible. Today there are both ineligible and unacceptable lists, but the term "ineligible" formerly included both of them.)  
+ 
+Little Information Available 
+The first life insurers had very little information to support their assumptions regarding the possibility or probability of loss of life. They relied solely on their own judgment to determine both the standards of insurability used to evaluate proposed insureds and the price to charge for the risks they insured. If an individual did not meet an insurer's standards for insurability, the individual would not be granted coverage. Later, when small groups of entrepreneurs formed insurance companies, the consensus of the members of the life company's board of directors replaced the individual underwriter's judgment, although there was still no body of quantitative mortality experience to guide the directors in their decisions. In 1725, London Assurance took a significant step in the development of professional underwriting when it told its soliciting agents, "You are to learn, if possible, the reason why the assurance is [sought], for unless there are good reasons...the person assured may be in a worse state of health than you apprehend.” 
+ 
+By the middle of the eighteenth century, insurance companies were using mortality statistics to establish more reliable premiums. At this time, actuaries, who had expertise in the statistical methods used to formulate mortality rates, usually performed the underwriting. However, since actuaries did not have sufficient medical experience to evaluate an individual's physical condition, many companies began to employ physicians to assess the health of proposed insureds. Since most reasons for declining a risk were medical, these physicians performed most of the underwriting, with the actuary handling only nonmedical factors, such as hazardous occupations. The mortality tables used by early life insurers reflected the mortality of both insured and uninsured individuals. These early tables were not really suitable for evaluating insurance risks, since insured and uninsured individuals experience different mortality rates. This difference is a result of the selection process performed by the insurance company. Persons in poor health usually are not granted coverage. Those granted coverage are healthier and, therefore, experience lower mortality rates.  
+ 
+Rating Process Systematized 
+With the advent of mortality tables based on the mortality of insured lives, companies realized that they were rejecting many people who could be insured if an extra premium were charged for certain impairments. As companies developed more experience at the practice of charging extra for certain impairments, the number of impaired individuals that could be insured with an extra premium charge increased. However, companies that adopted this approach found that they needed to account for varying degrees of mortality risk and to establish consistent standards for underwriting impaired applicants. Of the many methods developed to meet this need, the numerical rating system has been the most universally accepted and is the most widely used today.  
+ 
+In 1919, Arthur H. Hunter and Dr. Oscar H. Rogers, the actuary and medical director, respectively, of the New York Life Insurance Company, introduced the numerical rating system. Based on statistical studies of the mortality rates of groups of people with various conditions, Hunter and Rogers identified various characteristics that affected mortality and assigned each characteristic a positive or negative numerical value representing its favorable or unfavorable impact on mortality. Those characteristics which had a positive impact on mortality were termed credits, and those which had a negative impact were termed debits. The numerical rating system soon became firmly established and provided insurers with a standardized method for charging adequate and equitable premiums to individuals who were believed to have a mortality rate higher than standard. The numerical rating system eliminated to a considerable extent the subjective underwriting judgment involved in the classification of both average and higher-than-average mortality risks. This system is still used today.  
+ 
+Use of the numerical rating system also led to the practice of using personnel who were neither actuaries nor physicians to evaluate applications for insurance. Initially, company doctors assigned the debits and credits. Companies learned, however, that much of this task could be performed just as easily and more economically by "lay underwriters" working from established rating guidelines. At the same time, the growth of the insurance industry presented the problem of how to handle an increasing volume of business. In addition, most applications were on individuals who were standard risks and who, therefore, did not require extensive evaluation. The use of a lay underwriter provided a solution to both problems: the evaluation of various nonmedical risk factors, which had been previously performed by the actuary, was also delegated to a lay underwriter, usually one of the underwriting department clerks.  
+ 
+This transition to having lay underwriters -rather than physicians and actuaries-evaluate proposed insurance risks was the beginning of the underwriting function as it exists today. Lay underwriters -who now performed many of the underwriting tasks which had previously been the responsibility of either the actuary or the company doctor-usually reported to the company doctor, who in turn reported to the actuary. This situation has continued to the present day with some modifications. Most applications now are evaluated by lay underwriters. However, great progress is being made in understanding the nature, treatment, and effect on mortality of many diseases. The effect of this progress is that the medical assessment of substandard mortality risks is more accurate and the underwriter may consult more often than before with the company's medical department.  
+ 
+Underwriter Responsibilities 
+Underwriters must review applications for insurance and then either accept at an appropriate rate or reject the application. This person makes a decision based on criteria established by the company's management (for example, no drivers accepted under age 21 or no insurance on commercial property) and on personal experience and judgment. In practice, the underwriter must be a skillful judge of people. He or she must judge the applicant for the insurance in every instance. If the morals of the applicant are open to question, the underwriter probably will decline the insurance, no matter how sound the property or how healthy the life.  
+ 
+The underwriter must be very alert to the possibility of adverse selection. Adverse selection, sometimes called "antiselection," describes the process whereby those individuals more than likely to experience loss try to purchase their insurance at average rates that do not truly reflect the above-average cost of their exposure. The underwriter who does not select applicants carefully will soon find the actual loss experience well above the expected experience based on predictions of insuring an average group. If there has been adverse selection, the group of insureds will no longer be average. People whose property is prone to fire, those who are more than likely to have automobile accidents, and people whose health is not good need the financial security that insurance can provide. In many instances, insurance companies legitimately accept such exposures. But when such applicants are accepted they must be charged a premium that reflects the increased costs of such exposures. To accept such nonstandard risks at standard rates would mean that the standard risks are subsidizing the nonstandard risks. Such a situation can result in the collapse of the insurance company. Recognizing that the possibility of adverse selection is always present, the underwriter must carefully screen and rate all applications for insurance. Proper classification of risks, and dealing with potential adverse selection, is the essence of the underwriter's assignment. 
+ 
+Potential for Conflict 
+The potential for conflict between the underwriter and the insurance agent must be considered. The underwriter's performance is judged primarily on the quality, rather than the quantity of successful applications produced, whereas the agent is compensated based on quantity of production. The conflict between the two parties is more apparent than real. The agent's responsibilities include an initial screening of applicants. If the agent knows a company will not accept a certain class of business, such applications should not be submitted. The underwriter knows that the greater amount of business accepted, the better the law of large numbers will operate. Furthermore, the agent knows that, if the applications submitted consistently result in an above-average number of claims, the company may wish to terminate its relationship. Thus, while a potential for conflict appears because of the different objectives of the underwriter and the agent, in practice they are both working toward the same goal-producing a large group of properly classified insureds. In fact, experienced underwriters have frequently told me that in underwriting marginally acceptable exposures, it is the submitting agent's historical performance that may determine the acceptance of an application. 
+ 
+Types of Underwriters 
+Insurers commonly distinguish between line underwriters and staff underwriters.  Line underwriters are primarily responsible for implementing the steps in the underwriting process. Line underwriters are generally located in insurers' branch or regional offices. 
+Staff underwriters assist underwriting management with making and implementing underwriting policy. Staff underwriters are typically located in an insurer's home office. 
+ 
+Line and staff underwriting activities sometimes overlap. For example, staff underwriters might be directly involved in individual underwriting decisions for large or unusual accounts. Whether to accept a large or an unusual account, and on what terms, sometimes requires a decision by staff underwriters or top management about how that particular account fits with the insurer's overall underwriting goals.  
+ 
+Line Underwriters  
+In addition to their primary responsibilities in implementing the steps in the underwriting process, line underwriters also engage in the following activities: 
+Assisting with determining appropriate coverage 
+Providing service to producers and policyholders  
+Assisting With Determining Appropriate Coverage  
+ 
+An underwriter can offer valuable technical assistance to the insured's risk manager and the producer who is directly responsible for determining what coverage best meets the insured's needs. For simple or routine submissions, the underwriter verifies that the policy is issued with the appropriate forms and endorsements. For complex or unique submissions, the underwriter might draft manuscript policies and endorsements based on the characteristics of each submission.  
+ 
+An underwriter's knowledge of insurance policy forms and ability to relate policy provisions to the loss exposures of individual policyholders or applicants benefits producers and applicants. For example, suppose an applicant requested insurance on the loss exposures of a manufacturing location. While reviewing the applicant's operations as described in the inspection report, the underwriter discovers that the applicant has a loss exposure to property in transit that would not be covered adequately by the coverage forms. The underwriter discusses this loss exposure with the producer and offers to provide the coverage in an inland marine policy, thereby broadening the insured's coverage.  
+ 
+Sometimes an underwriter must narrow an insured's coverage. Producers often request broader coverage for the loss exposures of a particular applicant than the insurer is willing to provide. Rather than decline the application, the underwriter might offer a more limited form of coverage involving higher deductibles or covering fewer causes of loss. The producer has an opportunity to provide reduced coverage that might be acceptable to the applicant rather than reject the applicant altogether.  
+ 
+Providing Service to Producers and Policyholders  
+Line underwriters also provide services to both producers and policyholders. Line underwriters prepare premium quotations and assist producers with proposals. Once a quote has been accepted, the underwriter prepares the file for the policy writing or data entry department. Line underwriters also answer telephone calls, e-mails, and correspondence promptly; and process cancellations, endorsements, certificates, and renewals in a timely manner. The skill and efficiency with which line underwriters provide technical assistance, prepare quotations, issue policies, and perform routine services contribute to the insurer's success.  
+ 
+Staff Underwriters  
+Staff underwriters usually work at the insurer's home office, and they perform the following tasks: Researching the market  
+Researching and developing coverages 
+Evaluating underwriting experience 
+Reviewing and revising rating plans 
+Formulating underwriting policy 
+Developing underwriting guides 
+Conducting underwriting audits  
+Assisting with education and training  
+Researching the Market  

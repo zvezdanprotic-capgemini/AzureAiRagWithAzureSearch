@@ -1,0 +1,37 @@
+{
+  "name": "my-rag-index",
+  "fields": [
+    { "name": "id", "type": "Edm.String", "key": true, "filterable": true },
+    { "name": "content", "type": "Edm.String", "searchable": true, "retrievable": true },
+    { "name": "metadata", "type": "Edm.String", "searchable": true, "retrievable": true, "filterable": true },
+    {
+      "name": "embedding_vector",
+      "type": "Collection(Edm.Single)",
+      "searchable": true,
+      "retrievable": false,
+      "stored": false,
+      "dimensions": 1536,
+      "vectorSearchProfile": "default-profile"
+    }
+  ],
+  "vectorSearch": {
+    "algorithms": [
+      {
+        "name": "hnsw-default",
+        "kind": "hnsw",
+        "hnswParameters": {
+          "m": 4,
+          "efConstruction": 400,
+          "efSearch": 500,
+          "metric": "cosine"
+        }
+      }
+    ],
+    "profiles": [
+      {
+        "name": "default-profile",
+        "algorithm": "hnsw-default"
+      }
+    ]
+  }
+}

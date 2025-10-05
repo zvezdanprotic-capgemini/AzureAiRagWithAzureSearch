@@ -1,0 +1,40 @@
+# RAG Chunking Best Practices
+
+## Introduction
+
+Chunking is a crucial part of the RAG (Retrieval Augmented Generation) pipeline. It involves breaking down large documents into smaller, manageable pieces that can be efficiently embedded and retrieved. The quality of chunking directly impacts the effectiveness of the entire RAG system.
+
+## Chunking Strategies
+
+There are several approaches to chunking text documents:
+
+1. **Fixed-size chunks**: Dividing text into chunks of a predetermined size (e.g., 500 tokens).
+2. **Semantic chunks**: Creating chunks based on natural document structure (paragraphs, sections).
+3. **Hybrid approaches**: Combining structural and size constraints.
+
+## Token-based Chunking
+
+When using token-based chunking, consider these factors:
+
+- The embedding model's context window limitations
+- The need for sufficient context within each chunk
+- The trade-off between chunk size and retrieval granularity
+
+Smaller chunks allow for more precise retrieval but may lack sufficient context. Larger chunks provide more context but may include irrelevant information.
+
+## Overlap Strategies
+
+Using overlap between adjacent chunks helps maintain context across chunk boundaries. Common overlap strategies include:
+
+- Fixed token overlap (e.g., 50 tokens)
+- Percentage-based overlap (e.g., 10% of chunk size)
+- Semantic overlap (ensuring complete sentences or paragraphs)
+
+## Implementation Considerations
+
+When implementing chunking for production:
+
+1. Respect document structure where possible
+2. Preserve metadata with each chunk
+3. Consider hierarchical chunking for complex documents
+4. Ensure consistent tokenization between chunking and embedding

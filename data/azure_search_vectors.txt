@@ -1,0 +1,73 @@
+# Azure Search Vector Integration
+
+Azure AI Search provides powerful vector search capabilities that integrate well with RAG systems. This document explains how to configure and optimize vector search for RAG applications.
+
+## Vector Index Configuration
+
+To use vector search in Azure AI Search, you need to configure your index with vector fields:
+
+```json
+{
+  "name": "my-index",
+  "fields": [
+    {
+      "name": "id",
+      "type": "Edm.String",
+      "key": true,
+      "filterable": true
+    },
+    {
+      "name": "content",
+      "type": "Edm.String",
+      "searchable": true
+    },
+    {
+      "name": "embedding",
+      "type": "Collection(Edm.Single)",
+      "dimensions": 1536,
+      "vectorSearchConfiguration": "my-vector-config"
+    }
+  ],
+  "vectorSearch": {
+    "algorithmConfigurations": [
+      {
+        "name": "my-vector-config",
+        "kind": "hnsw",
+        "hnswParameters": {
+          "m": 4,
+          "efConstruction": 400,
+          "efSearch": 500,
+          "metric": "cosine"
+        }
+      }
+    ]
+  }
+}
+```
+
+## Hybrid Search
+
+Azure AI Search supports hybrid search, combining traditional keyword search with vector similarity search:
+
+```python
+results = search_client.search(
+    search_text="keyword query",
+    vector={"value": embedding_vector, "fields": "embedding", "k": 50},
+    top=10
+)
+```
+
+## Performance Optimization
+
+To optimize vector search performance:
+1. Use an appropriate vector dimension (1536 for text-embedding-3-small)
+2. Tune HNSW parameters for your specific use case
+3. Consider using pre-filtering to narrow search space
+4. Scale your search service appropriately
+
+## Monitoring and Evaluation
+
+Monitor your vector search performance with:
+1. Azure AI Search metrics
+2. Custom relevance evaluation
+3. A/B testing different configurations
